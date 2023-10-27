@@ -16,7 +16,7 @@ I'm **Nicolás Ferrada**, a **software developer** dedicated to enhancing my dev
 
 - **[My Custom Notes Website](https://github.com/nicolas-ferrada/mycustomnotes_website)**: an open-source Flutter website for showcasing a Flutter mobile application.
 
-## Oficial studies
+## Official studies
 - University Technician in Computer Science (2020-2022)
 
 ## Contact
