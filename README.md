@@ -20,4 +20,6 @@ I'm **Nicolás Ferrada**, a **software developer** dedicated to enhancing my dev
 - University Technician in Computer Science (2020-2022)
 
 ## Contact
-I am currently looking for a Flutter job, you can contact me by email: contact@nicolasferrada.com
+contact@nicolasferrada.com
+
+ I am currently looking for a Flutter job.
