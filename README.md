@@ -2,7 +2,7 @@
 #### **Software developer focusing on the Flutter ecosystem.**
 
 ## About me
-I'm **Nicolás Ferrada**, a **software developer** dedicated to enhancing my development skills. Currently, I am completely focused on working with the **Flutter ecosystem** to create multi-platform applications.
+I'm completely focused on **enhancing my development skills** and on **working with the Flutter ecosystem** to create multi-platform software applications.
 
 ## Skills
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
