@@ -11,9 +11,9 @@ I'm Nicolás Ferrada, a software developer dedicated to enhancing my development
 - Firebase
 
 ## End-to-end projects
-- My Custom Notes: an open-source Flutter application optimized for mobile platforms. Available for Play Store and App Store.
+- [My Custom Notes](https://github.com/nicolas-ferrada/mycustomnotes): an open-source Flutter application for note-taking and task organization. Designed for mobile platforms; Android and iOS.
 
-- My Custom Notes Website: an open-source Flutter website for showcasing My Custom Notes.
+- [My Custom Notes Website](https://github.com/nicolas-ferrada/mycustomnotes_website): an open-source Flutter website for showcasing a Flutter mobile application.
 
 ## Studies
 - University Technician in Computer Science (2020-2022)
