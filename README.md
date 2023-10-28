@@ -28,6 +28,12 @@ Universidad Técnica Federico Santa María.
 
 📅 2020-2022, 📍 Chile.
 
+# Languages
+
+- Spanish - Native.
+
+- English - Upper intermediate (B2).
+
 ## Contact
 contact@nicolasferrada.com
 
