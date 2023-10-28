@@ -5,16 +5,16 @@ I am a **software developer** who specializes in the **Flutter ecosystem**. I co
 
 - **Technologies**: 
 
-![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=Firebase&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=Firebase&logoColor=white)
 
 - **Platforms:**
 
-![android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-grey?style=for-the-badge&logo=apple&logoColor=white)
-![iOS](https://img.shields.io/badge/WEB-white?style=for-the-badge&logo=googlechrome&logoColor=grey)
+![Web](https://img.shields.io/badge/WEB-D3D3D3?style=for-the-badge&logo=googlechrome&logoColor=grey)
 
 ## End-to-end projects
 - **[My Custom Notes](https://github.com/nicolas-ferrada/mycustomnotes)**: an open-source Flutter application for note-taking and task organization. Designed for mobile platforms; Android and iOS.
